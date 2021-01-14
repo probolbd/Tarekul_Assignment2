@@ -11,3 +11,7 @@ h1 {
 #shop-display h5 {
   color: #363958;
 }
+#cart-part img {
+  width: 100px;
+  padding: 15px;
+}
